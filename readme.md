@@ -1,1 +1,0 @@
-this is a new readme file trying to understand the new folder creation and git init 
